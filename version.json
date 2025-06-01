@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3", 
-  "url": "https://github.com/Herodiw/OptiNexusPro-UpdateInfo/raw/refs/heads/main/OptiNexus.zip",
+  "version": "1.0.3",
+  "url": "https://github.com/Herodiw/OptiNexusPro-UpdateInfo/releases/download/untagged-870397f1bb4a84fb94e7/OptiNexus.zip",
   "notes": "DUDUDUPSON!\n- Nowy interfejs użytkownika.\n- Podstawowe funkcje optymalizacji.",
-  "releaseDate": "2025-06-1T1:55:00Z",
-  "isCritical": "true" 
+  "releaseDate": "2025-06-01T01:55:00Z",
+  "isCritical": true 
 }
