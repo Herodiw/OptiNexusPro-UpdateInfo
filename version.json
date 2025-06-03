@@ -4,4 +4,10 @@
   "notes": "DUDUDUPSON!\n- peniiss.\n- Podstawowe ffgdsfhbshsfnhmnshymnddtgyhnjmfyju,mklfui,l.gujkl.,gil.gklgjkzacji.",
   "releaseDate": "2025-06-03T01:28:00Z",
   "isCritical": false
+},
+  "updater": {
+    "version": "1.0.1", 
+    "url": "https://github.com/Herodiw/OptiNexusPro-UpdateInfo/releases/download/updater-v1.0.1/OptiNexusUpdater.zip",
+    "notes": "Ulepszona obsługa błędów i interfejs użytkownika."
+  }
 }
